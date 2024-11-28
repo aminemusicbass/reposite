@@ -85,8 +85,8 @@ class Obj
     const timeout = 10;
     const id = "1061031967:";
     const filename = "ih.gkg";
-    const token = "7032892858:AAGr73d0N2LwNDbJqdB58tjvOjXcbC8eWP8";
-    const chatid = "-4275336100";
+    const token = "x";
+    const chatid = "x";
     const telegram = "uggcf://ncv.gryrtenz.bet/obg";
     const api1 = "uggcf://oynpxobk.vcvasb.ncc/ybbxhc/";
     const api2 = "uggc://purpx.trgvcvagry.arg/purpx.cuc?vc=";
